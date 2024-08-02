@@ -1,0 +1,12 @@
+C:\laragon\www\BlazorEstudio\BlazorNet7\BlazorPeliculas.Client\BlazorPeliculas.Shared\bin\Debug\net8.0\BlazorPeliculas.Shared.deps.json
+C:\laragon\www\BlazorEstudio\BlazorNet7\BlazorPeliculas.Client\BlazorPeliculas.Shared\bin\Debug\net8.0\BlazorPeliculas.Shared.dll
+C:\laragon\www\BlazorEstudio\BlazorNet7\BlazorPeliculas.Client\BlazorPeliculas.Shared\bin\Debug\net8.0\BlazorPeliculas.Shared.pdb
+C:\laragon\www\BlazorEstudio\BlazorNet7\BlazorPeliculas.Client\BlazorPeliculas.Shared\obj\Debug\net8.0\BlazorPeliculas.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\www\BlazorEstudio\BlazorNet7\BlazorPeliculas.Client\BlazorPeliculas.Shared\obj\Debug\net8.0\BlazorPeliculas.Shared.AssemblyInfoInputs.cache
+C:\laragon\www\BlazorEstudio\BlazorNet7\BlazorPeliculas.Client\BlazorPeliculas.Shared\obj\Debug\net8.0\BlazorPeliculas.Shared.AssemblyInfo.cs
+C:\laragon\www\BlazorEstudio\BlazorNet7\BlazorPeliculas.Client\BlazorPeliculas.Shared\obj\Debug\net8.0\BlazorPeliculas.Shared.csproj.CoreCompileInputs.cache
+C:\laragon\www\BlazorEstudio\BlazorNet7\BlazorPeliculas.Client\BlazorPeliculas.Shared\obj\Debug\net8.0\BlazorPeliculas.Shared.sourcelink.json
+C:\laragon\www\BlazorEstudio\BlazorNet7\BlazorPeliculas.Client\BlazorPeliculas.Shared\obj\Debug\net8.0\BlazorPeliculas.Shared.dll
+C:\laragon\www\BlazorEstudio\BlazorNet7\BlazorPeliculas.Client\BlazorPeliculas.Shared\obj\Debug\net8.0\refint\BlazorPeliculas.Shared.dll
+C:\laragon\www\BlazorEstudio\BlazorNet7\BlazorPeliculas.Client\BlazorPeliculas.Shared\obj\Debug\net8.0\BlazorPeliculas.Shared.pdb
+C:\laragon\www\BlazorEstudio\BlazorNet7\BlazorPeliculas.Client\BlazorPeliculas.Shared\obj\Debug\net8.0\ref\BlazorPeliculas.Shared.dll

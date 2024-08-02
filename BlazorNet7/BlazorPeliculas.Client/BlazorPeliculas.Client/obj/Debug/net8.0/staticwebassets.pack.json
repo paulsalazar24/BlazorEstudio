@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\u90o5ehqg3.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorPeliculas.Client.styles.css",
+      "PackagePath": "staticwebassets\\BlazorPeliculas.Client.styles.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorPeliculas.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorPeliculas.Client.props",
+      "PackagePath": "build\\BlazorPeliculas.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorPeliculas.Client.props",
+      "PackagePath": "buildMultiTargeting\\BlazorPeliculas.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorPeliculas.Client.props",
+      "PackagePath": "buildTransitive\\BlazorPeliculas.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

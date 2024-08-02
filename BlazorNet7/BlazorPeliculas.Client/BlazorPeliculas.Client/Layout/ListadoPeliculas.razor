@@ -1,0 +1,68 @@
+﻿@using System.Globalization
+
+@if (Peliculas is null)
+{
+	<div class="text-center">
+		<span style="color:red">Cargando .......</span>
+	</div>
+
+}
+else if (Peliculas.Count == 0)
+{
+	<div class="alert alert-danger">
+		<p>No hay peliculas para mostrar.</p>
+	</div>
+
+
+}
+else
+{
+	<div class="row mt-5">
+		@foreach (var peli in Peliculas)
+		{
+			<div class="col-2">
+				<div class="card mt-4">
+					<div class="card-header d-flex justify-content-between align-items-center">
+						<h3 class="mb-0">Pelicula</h3>
+						@if (DateTime.Today.Subtract(peli.FechaLanzamiento).Days <= 14)
+						{
+							<span style="color:red;">(NUEVO!)</span>
+						}
+					</div>
+
+					<div class="card-body">
+						<p>Título:<strong>@peli.Titulo</strong> </p>
+						<p>Fecha lanzamiento:<strong>@peli.FechaLanzamiento.ToString("dd MMM yyyy")</strong> </p>
+					</div>
+				</div>
+			</div>
+		}
+	</div>
+
+}
+
+
+
+
+@code {
+	[Parameter]
+	public List<Pelicula>? Peliculas { get; set; }
+
+	protected override async Task OnInitializedAsync()
+	{
+		await Task.Delay(1000);
+		Peliculas = ObtenerPeliculas();
+	}
+
+
+	List<Pelicula> ObtenerPeliculas()
+	{
+		return new List<Pelicula>()
+		{
+			new Pelicula { Titulo = "Superman", FechaLanzamiento= new DateTime(2024,5,6)},
+			new Pelicula { Titulo = "La monja", FechaLanzamiento= new DateTime(2024,7,25)},
+			new Pelicula { Titulo = "Despertar", FechaLanzamiento= new DateTime(2023,12,6)}
+		};
+	}
+
+}

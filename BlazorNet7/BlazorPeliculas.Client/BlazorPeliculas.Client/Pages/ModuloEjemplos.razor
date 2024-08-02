@@ -1,0 +1,145 @@
+﻿@page "/moduloEjemplo"
+@using System.Globalization
+
+
+@* ejemplo de una expresion implicita *@
+@* <p>Hola, @UtilidadesString.transformar(nombre)</p>
+<button @onclick=@ManejarButon>Funcion</button> *@
+
+
+@* ejemplo de una expresion explicita - donde inicia y donde termina *@
+@* <p> vamos a sumar 2 + 2 = @(2 + 2)</p>
+<button @onclick=@(()=> Console.WriteLine("Me presento"))>Preciona</button> *@
+
+@* <div class="card mt-5">
+	<div class="card-header">
+		<h3>Pelicula</h3>
+	</div>
+	<div class="card-body ">
+		<p>Título:<strong>@pelicula.Titulo</strong> </p>
+		<p>Fecha lanzamiento:<strong>@pelicula.FechaLanzamiento.ToString("dd MMM yyyy")</strong> </p>
+	</div>
+</div> *@
+
+<h1 class="text-center" style="color:blue"> Peliculas</h1>
+
+@if (Peliculas is null)
+{
+	<div class="text-center">
+		<span style="color:red">Cargando .......</span>
+	</div>
+
+}
+else if (Peliculas.Count == 0)
+{
+	<div class="alert alert-danger">
+		<p>No hay peliculas para mostrar.</p>
+	</div>
+
+
+}
+else
+{
+
+	<div class="row mt-5">
+		<h4 class="mb-3">Ejemplo Foreach</h4>
+		@foreach (var peli in Peliculas)
+		{
+			<div class="col-2">
+				<div class="card mt-4">
+					<div class="card-header d-flex justify-content-between align-items-center">
+						<h3 class="mb-0">Pelicula</h3>
+						@if (DateTime.Today.Subtract(peli.FechaLanzamiento).Days <= 14)
+						{
+							<span style="color:red;">(NUEVO!)</span>
+						}
+					</div>
+
+					<div class="card-body">
+						<p>Título:<strong>@peli.Titulo</strong> </p>
+						<p>Fecha lanzamiento:<strong>@peli.FechaLanzamiento.ToString("dd MMM yyyy")</strong> </p>
+					</div>
+				</div>
+			</div>
+		}
+	</div>
+
+}
+
+
+
+@* <div class="row mt-5">
+	<h4 class="mb-3">Ejemplo For</h4>
+	<div class="col-6">
+		<div class="mt-2 table table-bordered">
+			<table class="table">
+				<thead>
+					<tr>
+						<th>#</th>
+						<th>Título</th>
+						<th>Fecha lanzamiento</th>
+					</tr>
+				</thead>
+				<tbody>
+					@for (int i = 0; i < Peliculas.Count; i++)
+					{
+						<tr>
+							<td>@(i + 1)</td>
+							<td>@Peliculas[i].Titulo</td>
+							<td>@Peliculas[i].FechaLanzamiento.ToString("dd MMM yyyy")</td>
+						</tr>
+
+					}
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>
+
+ *@
+
+
+
+@code {
+	string nombre = "paul";
+
+	Pelicula pelicula { get { return obtenerPelicula(); } }
+	List<Pelicula>? Peliculas { get; set; }
+
+	protected override async Task OnInitializedAsync()
+	{
+		await Task.Delay(1000);
+		Peliculas = ObtenerPeliculas();
+		// Peliculas = new List<Pelicula>();
+	}
+
+	Pelicula obtenerPelicula()
+	{
+		return new Pelicula
+			{
+				Titulo = "Hombre araña",
+				FechaLanzamiento = new DateTime(2022, 11, 11)
+			};
+	}
+
+	List<Pelicula> ObtenerPeliculas()
+	{
+		return new List<Pelicula>()
+		{
+			new Pelicula { Titulo = "Superman", FechaLanzamiento= new DateTime(2024,5,6)},
+			new Pelicula { Titulo = "La monja", FechaLanzamiento= new DateTime(2024,7,25)},
+			new Pelicula { Titulo = "Despertar", FechaLanzamiento= new DateTime(2023,12,6)}
+		};
+	}
+
+
+
+	void ManejarButon()
+	{
+		Console.WriteLine("desde una funcion");
+	}
+
+
+
+
+}
