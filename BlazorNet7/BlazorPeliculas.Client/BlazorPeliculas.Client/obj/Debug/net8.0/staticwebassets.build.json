@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UUqrQ1gnJyCayFNsrYTErh1gjF4tjsfbk4s0yb/iLxc=",
+  "Hash": "TAtiYNXLFAZ4VoAPt5MQcEayTddlksyPaXMpowAl7jk=",
   "Source": "BlazorPeliculas.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.2.wuwoaippon.js",
+      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.7.gm1pr1sntc.js",
       "SourceId": "BlazorPeliculas.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.2.wuwoaippon.js",
+      "RelativePath": "_framework/dotnet.native.8.0.7.gm1pr1sntc.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,7 +185,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -204,15 +204,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.2.6ihb9opjok.js",
+      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.7.aimqiqwihs.js",
       "SourceId": "BlazorPeliculas.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.2.6ihb9opjok.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.7.aimqiqwihs.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -242,7 +242,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
@@ -261,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -280,7 +280,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -299,7 +299,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -4045,6 +4045,25 @@
       "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Serialization.Formatters.wasm"
     },
     {
+      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\1tqc808jpb.gz",
+      "SourceId": "BlazorPeliculas.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
+    },
+    {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\1uyh09wrbc.gz",
       "SourceId": "BlazorPeliculas.Client",
       "SourceType": "Computed",
@@ -4062,6 +4081,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.NameResolution.wasm"
+    },
+    {
+      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\1vuqb8yqvs.gz",
+      "SourceId": "BlazorPeliculas.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\23lkj8r1od.gz",
@@ -4235,42 +4273,23 @@
       "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.Primitives.wasm"
     },
     {
-      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\3q1owyup8g.gz",
+      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\3qb7gjumvg.gz",
       "SourceId": "BlazorPeliculas.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "RelatedAsset": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
-    },
-    {
-      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\3ti3rszo06.gz",
-      "SourceId": "BlazorPeliculas.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\3tja6pqti3.gz",
@@ -4290,25 +4309,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.XPath.XDocument.wasm"
-    },
-    {
-      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\3wj5avxz5j.gz",
-      "SourceId": "BlazorPeliculas.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\43ii17p6pt.gz",
@@ -4501,6 +4501,25 @@
       "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.CSharp.wasm"
     },
     {
+      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\66bemlmd2v.gz",
+      "SourceId": "BlazorPeliculas.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
+    },
+    {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\6aoe540b2h.gz",
       "SourceId": "BlazorPeliculas.Client",
       "SourceType": "Computed",
@@ -4556,25 +4575,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Tasks.Parallel.wasm"
-    },
-    {
-      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\6ihb9opjok.gz",
-      "SourceId": "BlazorPeliculas.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.2.6ihb9opjok.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.2.6ihb9opjok.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.2.6ihb9opjok.js"
     },
     {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\6jwoj7jiji.gz",
@@ -4651,25 +4651,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.FileExtensions.wasm"
-    },
-    {
-      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\7e1nl1s6yk.gz",
-      "SourceId": "BlazorPeliculas.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\82i18ty8dq.gz",
@@ -4803,6 +4784,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.RegularExpressions.wasm"
+    },
+    {
+      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\8xgzfpzkii.gz",
+      "SourceId": "BlazorPeliculas.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\8z8jam8ghx.gz",
@@ -5033,6 +5033,25 @@
       "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.AccessControl.wasm"
     },
     {
+      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\aimqiqwihs.gz",
+      "SourceId": "BlazorPeliculas.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.7.aimqiqwihs.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.7.aimqiqwihs.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.7.aimqiqwihs.js"
+    },
+    {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\aj3on8cy2e.gz",
       "SourceId": "BlazorPeliculas.Client",
       "SourceType": "Computed",
@@ -5221,25 +5240,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.ServicePoint.wasm"
-    },
-    {
-      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\ca1qgahmkt.gz",
-      "SourceId": "BlazorPeliculas.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\cd47ehgzf7.gz",
@@ -5603,25 +5603,6 @@
       "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Abstractions.wasm"
     },
     {
-      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\f3rz2tz7dq.gz",
-      "SourceId": "BlazorPeliculas.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
-    },
-    {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\fdx3p85ida.gz",
       "SourceId": "BlazorPeliculas.Client",
       "SourceType": "Computed",
@@ -5753,6 +5734,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ObjectModel.wasm"
+    },
+    {
+      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\gm1pr1sntc.gz",
+      "SourceId": "BlazorPeliculas.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.7.gm1pr1sntc.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.7.gm1pr1sntc.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.7.gm1pr1sntc.js"
     },
     {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\gpp50oupt2.gz",
@@ -5905,6 +5905,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.X509Certificates.wasm"
+    },
+    {
+      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\hhee3pozmt.gz",
+      "SourceId": "BlazorPeliculas.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\hrjmixv6nt.gz",
@@ -6114,25 +6133,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.wasm"
-    },
-    {
-      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\kcjd42b9pj.gz",
-      "SourceId": "BlazorPeliculas.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\kd1bf22nrb.gz",
@@ -7484,25 +7484,6 @@
       "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ServiceProcess.wasm"
     },
     {
-      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\wuwoaippon.gz",
-      "SourceId": "BlazorPeliculas.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.2.wuwoaippon.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.2.wuwoaippon.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.2.wuwoaippon.js"
-    },
-    {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\wux3cz1bsv.gz",
       "SourceId": "BlazorPeliculas.Client",
       "SourceType": "Computed",
@@ -7634,6 +7615,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Collections.Immutable.wasm"
+    },
+    {
+      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\xxy7hz8fye.gz",
+      "SourceId": "BlazorPeliculas.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\obj\\Debug\\net8.0\\compressed\\y1oc8uz3d2.gz",

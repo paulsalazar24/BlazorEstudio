@@ -26,8 +26,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/laragon/www/BlazorEstudio/BlazorNet7/BlazorPeliculas.Client/BlazorPeliculas.Client/Layout/EjemploTextbox.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEVqZW1wbG9UZXh0Ym94LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/laragon/www/BlazorEstudio/BlazorNet7/BlazorPeliculas.Client/BlazorPeliculas.Client/Layout/ListadoPeliculas.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XExpc3RhZG9QZWxpY3VsYXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/BlazorEstudio/BlazorNet7/BlazorPeliculas.Client/BlazorPeliculas.Client/Layout/PeliculaIndividual.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFBlbGljdWxhSW5kaXZpZHVhbC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/laragon/www/BlazorEstudio/BlazorNet7/BlazorPeliculas.Client/BlazorPeliculas.Client/Pages/Counter.razor]

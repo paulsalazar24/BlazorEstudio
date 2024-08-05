@@ -1,0 +1,22 @@
+﻿<div class="col-2">
+	<div class="card mt-4">
+		<div class="card-header d-flex justify-content-between align-items-center">
+			<h3 class="mb-0">Pelicula</h3>
+			@if (DateTime.Today.Subtract(Pelicula.FechaLanzamiento).Days <= 14)
+			{
+				<span style="color:red;">(NUEVO!)</span>
+			}
+		</div>
+
+		<div class="card-body">
+			<p>Título:<strong>@Pelicula.Titulo</strong> </p>
+			<p>Fecha lanzamiento:<strong>@Pelicula.FechaLanzamiento.ToString("dd MMM yyyy")</strong> </p>
+		</div>
+	</div>
+</div>
+
+@code{
+	[Parameter]
+	[EditorRequired]
+	public Pelicula Pelicula { get; set; }
+}

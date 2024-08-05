@@ -1,15 +1,15 @@
 {
   "mainAssemblyName": "BlazorPeliculas.Client",
   "resources": {
-    "hash": "sha256-Fj+zWJ9k8MuPwzX9miR3UfSMR+PcuwvmUKI3rxx6onI=",
+    "hash": "sha256-hnecmEystfJUy8a5Bh2JB2si77176Onrfic3yZEsgUM=",
     "jsModuleNative": {
-      "dotnet.native.8.0.2.wuwoaippon.js": "sha256-gPMK16QWoJSTxorlZJqcVtbBRTniIQWlLsJN2O4cJHg="
+      "dotnet.native.8.0.7.gm1pr1sntc.js": "sha256-tFsxPBbhkdn6GKNBKvCRLzrfAHdyM86odYTe0MtrwMk="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.8.0.2.6ihb9opjok.js": "sha256-54KSaoOArNfygQbV+r4B5y3ys53v2tnvFIyZcZiUmi0="
+      "dotnet.runtime.8.0.7.aimqiqwihs.js": "sha256-soZyw6XWXOLKhA26AOyzSpCP5cAsw1wvhdPHSYNTMfQ="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-C2P+OTYZAJlmqo6rc4heqwvIVVsXIF8MAxC6WRe96Eg="
+      "dotnet.native.wasm": "sha256-ApuqKsuYqEC0ZTUIUV5mIV1IIRYYCwmOiB912jgs8CQ="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -208,12 +208,12 @@
       "mscorlib.wasm": "sha256-OH3kXneWqQMz6CUSo6POZqIeMqn9+5RR+IgHn5TnIwA=",
       "netstandard.wasm": "sha256-ZOswxXEbR2TmqjpbaBEdgr85Bv1NC4GwOwoJ+oxXM3M=",
       "System.Private.CoreLib.wasm": "sha256-I2w0iHf5nvSQyF1YE1VbgdTzmmz6a4OE6J7vo5wFa/4=",
-      "BlazorPeliculas.Shared.wasm": "sha256-3FzMc3lJquvNGiT6swm2zAgX3SQrTHUrx7tNMVTVYQw=",
-      "BlazorPeliculas.Client.wasm": "sha256-VLSXAifEEx3rKrw0NCML+t5NLd4BMCJ2r8lyaKAzQLU="
+      "BlazorPeliculas.Shared.wasm": "sha256-1nEvpEOKOJDQ5UodCwuNE+UdaZeNKKnM/H9GwXKrOP4=",
+      "BlazorPeliculas.Client.wasm": "sha256-NSkBE5gCf7CI3efk+qfPXYVxxJiZ2d1NuBsZOfL5p/g="
     },
     "pdb": {
-      "BlazorPeliculas.Shared.pdb": "sha256-1yC3Gucz3WWElH/O7j/Xd+nIt6ClIV1IcUJTEgITxxI=",
-      "BlazorPeliculas.Client.pdb": "sha256-5YKWqSWaC1vmjlSfssu1lk8SbWDzHED/4cOWmfDOZ1o="
+      "BlazorPeliculas.Shared.pdb": "sha256-8In7g1vtaym4At5HnB4YiTN0gIEREEEklXobx4ntk5I=",
+      "BlazorPeliculas.Client.pdb": "sha256-/edSBQILwq9SMWO8akUl2ifoTYaGsYqwuNmrENSx6pM="
     }
   },
   "cacheBootResources": true,

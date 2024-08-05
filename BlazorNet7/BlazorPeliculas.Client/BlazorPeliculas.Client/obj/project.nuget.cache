@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7dkNAXQiokp5RMKMHezE9Jxx6e/R0wwcbAJXrLaRxLDcoW26BmJlOM2p8L0m7ddzoBtSBu2xV0/Jng5zn7d5eg==",
+  "dgSpecHash": "tdMtF5WmLfE=",
   "success": true,
   "projectFilePath": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\BlazorPeliculas.Client.csproj",
   "expectedPackageFiles": [
@@ -28,12 +28,12 @@
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.jsinterop\\8.0.2\\microsoft.jsinterop.8.0.2.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.2\\microsoft.jsinterop.webassembly.8.0.2.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.2\\microsoft.net.sdk.webassembly.pack.8.0.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.7\\microsoft.net.sdk.webassembly.pack.8.0.7.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.2.nupkg.sha512"
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.7.nupkg.sha512"
   ],
   "logs": []
 }

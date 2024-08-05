@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorPeliculas.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c42eabcdc3e010a4cee981a9d305587ada370448")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82b6318d20c53148a03fbb260590369ec018fe80")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorPeliculas.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorPeliculas.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

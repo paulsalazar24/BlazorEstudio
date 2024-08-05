@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorPeliculas.Client", "BlazorPeliculas.Client\BlazorPeliculas.Client.csproj", "{B1E6F74D-EC64-4E8B-81A1-54A52613762B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorPeliculas.Client", "BlazorPeliculas.Client\BlazorPeliculas.Client.csproj", "{B1E6F74D-EC64-4E8B-81A1-54A52613762B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorPeliculas.Shared", "BlazorPeliculas.Shared\BlazorPeliculas.Shared.csproj", "{85AD105C-2156-404D-B7AD-A58CCB4E0715}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorPeliculas.Shared", "BlazorPeliculas.Shared\BlazorPeliculas.Shared.csproj", "{85AD105C-2156-404D-B7AD-A58CCB4E0715}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
