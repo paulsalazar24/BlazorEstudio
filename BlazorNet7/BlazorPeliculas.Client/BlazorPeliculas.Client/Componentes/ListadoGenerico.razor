@@ -1,0 +1,57 @@
+﻿@typeparam Titem
+
+@if (Listado is null)
+{
+	@if (cargando is null)
+	{
+		<div class="text-center">
+			<span style="color:red">Cargando .......</span>
+		</div>
+	}
+	else
+	{
+		@cargando
+	}
+
+}
+else if (Listado.Count == 0)
+{
+	@if (noHayRegistro is null)
+	{
+		<div class="alert alert-danger">
+			<p>No hay peliculas para mostrar.</p>
+		</div>
+	}
+	else
+	{
+		@noHayRegistro
+	}
+
+
+}
+else
+{
+	@foreach (var elemento in Listado)
+	{
+		@hayRegistros(elemento);
+		
+	}
+
+}
+
+@code {
+	[Parameter]
+	public RenderFragment cargando { get; set; } = null!;   //esto me ayuda a enviar como parametro contenido
+															//que este dentro del componente y que no esta definido
+
+	[Parameter]
+	public RenderFragment noHayRegistro { get; set; } = null!;
+
+	[Parameter]
+	public RenderFragment<Titem> hayRegistros { get; set; } = null!;
+
+	[Parameter]
+	[EditorRequired]
+	public List<Titem> Listado { get; set; } = null!;
+
+}

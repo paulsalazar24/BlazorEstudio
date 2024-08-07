@@ -1,0 +1,26 @@
+﻿<h3>GetSetBindDemo</h3>
+@* 
+	@bind:get="Texto" -> obtengo el valor 
+	@bind:set="SetAsyn" -> modifica el valor 
+	@bind:event="oninput" -> usa en tiempo real la funcion definida de set
+
+*@
+
+
+
+<input type="text" @bind:get="Texto" @bind:set="SetAsyn" @bind:event="oninput"/>
+
+<p>Texto: @Texto</p>
+
+
+
+
+@code {
+	private string Texto = string.Empty;
+
+	private Task SetAsyn(string valor)
+	{
+		Texto = valor.ToUpper();
+		return Task.CompletedTask;
+	}
+}

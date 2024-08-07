@@ -1,0 +1,19 @@
+﻿<h3>EventoBind</h3>
+@* 
+	@bind:event="oninput" -> permite la actualizacion en tiempo real 
+*@
+
+
+
+
+<p>
+	<input @bind="Valor" @bind:event="oninput"/>
+</p>
+
+<p>El valor es:  @Valor</p>
+
+@code {
+	private string? Valor { get; set; }
+
+
+}

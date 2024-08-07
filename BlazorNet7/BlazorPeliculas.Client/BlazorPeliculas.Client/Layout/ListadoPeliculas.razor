@@ -1,27 +1,30 @@
 ﻿@using System.Globalization
 
-@if (Peliculas is null)
-{
-	<div class="text-center">
-		<span style="color:red">Cargando .......</span>
-	</div>
-}
-else if (Peliculas.Count == 0)
-{
-	<div class="alert alert-danger">
-		<p>No hay peliculas para mostrar.</p>
-	</div>
-}
-else
-{
-	<div class="row mt-5">
-		@foreach (var peli in Peliculas)
-		{
-			<PeliculaIndividual Pelicula="peli" />
-		}
+
+	<div class="mb-0 border border-1">
+		<div class="ms-2">
+			@* <input type="checkbox" @onchange="()=> MostrarBotones = !MostrarBotones" /> *@
+			@* podemos reemplazarlo de esta manera *@
+			<input type="checkbox" @bind="MostrarBotones" />
+			<span>Mostrar botones</span>
+		</div>
 	</div>
 
-}
+	<div class="row mt-2">
+
+		<ListadoGenerico Listado="Peliculas">
+			<hayRegistros Context="pelicula">
+
+				<PeliculaIndividual Pelicula="pelicula"
+								MostrarBotones="MostrarBotones" 
+					EliminarPelicula="EliminarPelicula" />
+
+			</hayRegistros>
+		</ListadoGenerico>
+
+	</div>
+
+
 
 
 
@@ -31,4 +34,35 @@ else
 	[EditorRequired]
 	public List<Pelicula>? Peliculas { get; set; }
 
+	bool MostrarBotones = true;
+
+	protected override void OnInitialized()
+	{
+		Console.WriteLine($"OnInitialized - cantidad Peliculas  {Peliculas!.Count}");
+	}
+
+	protected override void OnParametersSet()
+	{
+		Console.WriteLine($"OnParametersSet - cantidad Peliculas  {Peliculas!.Count}");
+
+	}
+
+	protected override void OnAfterRender(bool primeraRenderizacion)
+	{
+		Console.WriteLine("OnAfterRender: primera vez: " + primeraRenderizacion);
+	}
+
+	protected override bool ShouldRender()
+	{
+		Console.WriteLine("ShouldRender");
+		return true;
+	}
+
+
+
+	public void EliminarPelicula(Pelicula pelicula)
+	{
+		Console.WriteLine("Eliminar pelicula");
+		Peliculas!.Remove(pelicula);
+	}
 }

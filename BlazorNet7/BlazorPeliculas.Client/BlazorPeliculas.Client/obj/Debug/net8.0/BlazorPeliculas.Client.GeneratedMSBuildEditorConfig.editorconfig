@@ -26,6 +26,22 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/laragon/www/BlazorEstudio/BlazorNet7/BlazorPeliculas.Client/BlazorPeliculas.Client/Componentes/BindAfterDemos.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXNcQmluZEFmdGVyRGVtb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/BlazorEstudio/BlazorNet7/BlazorPeliculas.Client/BlazorPeliculas.Client/Componentes/EventoBind.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXNcRXZlbnRvQmluZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/BlazorEstudio/BlazorNet7/BlazorPeliculas.Client/BlazorPeliculas.Client/Componentes/GetSetBindDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXNcR2V0U2V0QmluZERlbW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/BlazorEstudio/BlazorNet7/BlazorPeliculas.Client/BlazorPeliculas.Client/Componentes/ListadoGenerico.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXNcTGlzdGFkb0dlbmVyaWNvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/laragon/www/BlazorEstudio/BlazorNet7/BlazorPeliculas.Client/BlazorPeliculas.Client/Layout/EjemploTextbox.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEVqZW1wbG9UZXh0Ym94LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 

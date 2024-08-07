@@ -2,23 +2,33 @@
 <div>
 	<h1 class="text-center" style="color:blue"> Peliculas</h1>
 	<div>
-		<ListadoPeliculas Peliculas="ObtenerPeliculas()" />
+		<ListadoPeliculas Peliculas="Peliculas" />
 	</div>
 </div>
 
 
-<div class="border border-1 mt-5">
-	<h3>Crear una película: </h3>
+
+@* <div class="border border-1 mt-5">
+	<h3>Crear una película: </h3> *@
 	@* ejemplo de parametros arbitriarios *@
 	@* <EjemploTextbox  placeholder="Nombre pelicula"/> *@
 	@* <EjemploTextbox @attributes="@(new Dictionary<string, object>(){{"placeholder", "nuevo"}, {"disabled", "true"}})" /> *@
-	<EjemploTextbox @attributes="@(new Dictionary<string, object>(){{"placeholder", "nuevo"}, {"disabled", "true"}})" />
+@* 	<EjemploTextbox @attributes="@(new Dictionary<string, object>(){{"placeholder", "nuevo"}, {"disabled", "true"}})" />
 
-</div>
+</div> *@
 
-
+<button class="mt-5 btn btn-success" @onclick="AgregarPelicula">Agregar Pelicula</button>
 
 @code {
+
+	public List<Pelicula> Peliculas { get; set; }
+
+	protected override void OnInitialized()
+	{
+		Peliculas = ObtenerPeliculas();
+	}
+
+
 	List<Pelicula> ObtenerPeliculas()
 	{
 		return new List<Pelicula>()
@@ -27,6 +37,11 @@
 			new Pelicula { Titulo = "La monja", FechaLanzamiento= new DateTime(2024,7,25)},
 			new Pelicula { Titulo = "Despertar", FechaLanzamiento= new DateTime(2023,12,6)}
 		};
+	}
+
+	private void AgregarPelicula()
+	{
+		Peliculas.Add(new Pelicula { Titulo = "Superman", FechaLanzamiento = DateTime.Today });
 	}
 
 

@@ -853,17 +853,17 @@
       "url": "_framework\/BlazorPeliculas.Shared.pdb"
     },
     {
-      "hash": "sha256-UfeJwpgWiFRBKxepDqnILX29ckh5OL+73kAQ6LnJB9w=",
+      "hash": "sha256-CemSf2MePW6fWNWFiHByMbdIc7S6k+\/w0L4CBEb3Sdg=",
       "url": "_framework\/BlazorPeliculas.Client.wasm"
     },
     {
-      "hash": "sha256-Or5H1BBXfu5Z9+GMWGnoPdpznKVKuhIiKRYpOXClvXE=",
+      "hash": "sha256-bv08xTeYSDBjsd33xCAwOgmJT\/mt\/XPust0nI\/gJjgo=",
       "url": "_framework\/BlazorPeliculas.Client.pdb"
     },
     {
-      "hash": "sha256-vWO7Xntm3XHzCECe45e+1PMWDdbNq0U1p6BEEulvkKw=",
+      "hash": "sha256-9AUkAj2Pg+EqGh22FMP\/4R53U\/pLVsbHlBy0JuwGbag=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "bkw7iGEZ"
+  "version": "iGfrL1YW"
 };

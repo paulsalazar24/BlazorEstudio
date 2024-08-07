@@ -12,6 +12,13 @@
 			<p>Título:<strong>@Pelicula.Titulo</strong> </p>
 			<p>Fecha lanzamiento:<strong>@Pelicula.FechaLanzamiento.ToString("dd MMM yyyy")</strong> </p>
 		</div>
+		@if (MostrarBotones)
+		{
+			<div class="card-footer">
+				@* de esta manera pasmos por parametro un evento *@
+				<button class="btn btn-danger" @onclick="@(()=> EliminarPelicula.InvokeAsync(Pelicula))"> Borrar</button>
+			</div>
+		}
 	</div>
 </div>
 
@@ -19,4 +26,15 @@
 	[Parameter]
 	[EditorRequired]
 	public Pelicula Pelicula { get; set; }
+
+	[Parameter]
+	public bool MostrarBotones { get; set; } = false;
+
+	[Parameter]
+	public EventCallback<Pelicula> EliminarPelicula { get; set; }
+
+	void Eliminar()
+	{
+		Console.WriteLine($"Eliminar la pelicula;  {Pelicula.Titulo}");
+	}
 }
