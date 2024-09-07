@@ -49,6 +49,10 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
+      "Id": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\wwwroot\\js\\Utilidades.js",
+      "PackagePath": "staticwebassets\\js\\Utilidades.js"
+    },
+    {
       "Id": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\wwwroot\\manifest.webmanifest",
       "PackagePath": "staticwebassets\\manifest.webmanifest"
     },

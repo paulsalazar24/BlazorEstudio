@@ -25,8 +25,12 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-KakOSFHxwbthDvoIOGMrcaDDj6IafjXcoeTy9beaMNM=",
+      "hash": "sha256-oi+K3vnLy2hJuceyn3DxGOt3uzt\/voaFm1OIstNTNV8=",
       "url": "index.html"
+    },
+    {
+      "hash": "sha256-hxCvK9vvoBMGrxgb67Fyy2LEFLgJXoTVhbnxT4YEng8=",
+      "url": "js\/Utilidades.js"
     },
     {
       "hash": "sha256-Hmj2WWgQCsbrVmFH2ooFWvRZmTdyOiw1ovoCmv6DHAw=",
@@ -853,17 +857,17 @@
       "url": "_framework\/BlazorPeliculas.Shared.pdb"
     },
     {
-      "hash": "sha256-CemSf2MePW6fWNWFiHByMbdIc7S6k+\/w0L4CBEb3Sdg=",
+      "hash": "sha256-JRTgR9LLb7hQMVWeSBAU+RaUg3FtRdpepeHtxPTCth0=",
       "url": "_framework\/BlazorPeliculas.Client.wasm"
     },
     {
-      "hash": "sha256-bv08xTeYSDBjsd33xCAwOgmJT\/mt\/XPust0nI\/gJjgo=",
+      "hash": "sha256-\/NycLzjzerFHFLuLRKKf13vei0Z2YQKI+wYHnxfXIO0=",
       "url": "_framework\/BlazorPeliculas.Client.pdb"
     },
     {
-      "hash": "sha256-9AUkAj2Pg+EqGh22FMP\/4R53U\/pLVsbHlBy0JuwGbag=",
+      "hash": "sha256-9PLW9VH46gSskI8BSlHGdGG2qY4LO83OYOtJ4I88PzQ=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "iGfrL1YW"
+  "version": "RvzR0mty"
 };

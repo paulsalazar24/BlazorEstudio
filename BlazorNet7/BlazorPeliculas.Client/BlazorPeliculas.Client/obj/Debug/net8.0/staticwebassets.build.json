@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TAtiYNXLFAZ4VoAPt5MQcEayTddlksyPaXMpowAl7jk=",
+  "Hash": "fSXMc5XQIL6rYIY8BghChRUEDqndx6Oxu9gbh7PdOPY=",
   "Source": "BlazorPeliculas.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -8090,6 +8090,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\wwwroot\\js\\Utilidades.js",
+      "SourceId": "BlazorPeliculas.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "js/Utilidades.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Utilidades.js"
     },
     {
       "Identity": "C:\\laragon\\www\\BlazorEstudio\\BlazorNet7\\BlazorPeliculas.Client\\BlazorPeliculas.Client\\wwwroot\\manifest.webmanifest",

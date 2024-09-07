@@ -1,4 +1,4 @@
-﻿@using System.Globalization
+﻿@inject IJSRuntime js
 
 
 	<div class="mb-0 border border-1">
@@ -60,9 +60,14 @@
 
 
 
-	public void EliminarPelicula(Pelicula pelicula)
+	public async Task EliminarPelicula(Pelicula pelicula)
 	{
-		Console.WriteLine("Eliminar pelicula");
-		Peliculas!.Remove(pelicula);
+		var confirmado = await js.Confirm($"¿Desea borrar la película {pelicula.Titulo} ?");
+		if (confirmado)
+		{
+			Console.WriteLine("Eliminar pelicula");
+			Peliculas!.Remove(pelicula);
+		}
+		
 	}
 }
